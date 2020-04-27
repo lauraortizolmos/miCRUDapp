@@ -27,5 +27,6 @@ FreeMysqlHosting es un alojamiento web gratuito que con solo registarse te permi
 En este freehosting no pagaras nada, y si tienes más de un correo electrónico, puedes crearte varias cuentas y disponer de varios planes de hosting gratuito a la vez.
 
 # Resultado
+![Captura de pantalla (91)](https://user-images.githubusercontent.com/61463784/80431260-9137cc80-88b6-11ea-8967-696df2a54b7a.png)
 
 
